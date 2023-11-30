@@ -1,0 +1,23 @@
+{
+  "name": "mywebsite",
+  "version": "1.0.0",
+  "description": "github workflows",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0x02f0bcd4/MyWebSite.git"
+  },
+  "keywords": [
+    "github",
+    "workflow"
+  ],
+  "author": "0x02f0bcd4",
+  "license": "GPL-2.0-or-later",
+  "bugs": {
+    "url": "https://github.com/0x02f0bcd4/MyWebSite/issues"
+  },
+  "homepage": "https://github.com/0x02f0bcd4/MyWebSite#readme"
+}
